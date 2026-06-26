@@ -40,3 +40,8 @@ spec:
       targetPort: 8080
       nodePort: 30102
   type: NodePort
+
+
+  #
+  #
+  
