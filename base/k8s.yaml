@@ -41,7 +41,3 @@ spec:
       nodePort: 30102
   type: NodePort
 
-
-  #
-  #
-  
